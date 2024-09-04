@@ -1,0 +1,5 @@
+Server Resource Utilization Report
+---------------------------------
+CPU Utilization: 7.1%
+Memory Utilization: 29.6%
+Disk Utilization: 53.1%

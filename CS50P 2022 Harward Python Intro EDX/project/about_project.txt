@@ -1,0 +1,24 @@
+A. Project Structure:
+
+                        server_monitoring/
+                        │
+                        ├── project.py
+                        ├── test_project.py
+                        └── requirements.txt
+
+
+B. Summary: This project provides a practical tool for monitoring server resources like CPU, Memory and Disk Usage Breaches.
+            It includes functionality for generating reports on resource usage.
+            It uses the psutil library to gather system statistics.
+            It uses pytest to ensure the reliability of the functions.
+
+
+C. Commands to Run the Project:
+                                1. Install dependencies: pip install -r requirements.txt
+                                2. Check CPU Utilization:python project.py cpu
+                                3. Check Memory Utilization:python project.py memory
+                                4. Check Disk Utilization:python project.py disk
+                                5. Generate Report:python project.py report
+                                6. Run Tests: pytest
+
+Thank You :)
